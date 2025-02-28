@@ -1,5 +1,6 @@
 {
     "title": "Колесница Джаганнатха",
     "subtitle": "Утренняя программа",
-    "slug": "ru-kdm"
+    "slug": "ru-kdm",
+    "hidden": true
 }
