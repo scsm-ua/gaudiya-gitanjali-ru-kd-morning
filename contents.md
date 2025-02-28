@@ -25,7 +25,7 @@
 - [Панча-таттва мантра](songs/shri-krishna-chaitanya-prabhu-nityananda.md)
 - [Харе Кршна маха-мантра](songs/hare-krishna-hare-krishna-krishna-krishna-hare-hare.md)
 
-### Шри Шикшаштакам
+### ⸻
 
 - [Шри Шикшаштакам](songs/cheto-darpana-marjanam.md)
 - [Нама-санкиртан](songs/hari-haraye-namah-krishna-yadavaya-namah.md)
