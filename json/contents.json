@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Арати",
+    "items": [
+      {
+        "id": "jaya-jaya-gurudever-arati-ujjvala",
+        "filepath": "songs/jaya-jaya-gurudever-arati-ujjvala.md",
+        "title": "Шри Гуру Арати"
+      },
+      {
+        "id": "jaya-guru-maharaja-jati-rajeshvara",
+        "filepath": "songs/jaya-guru-maharaja-jati-rajeshvara.md",
+        "title": "Шри Гуру Арати-стути"
+      },
+      {
+        "id": "jaya-guru-maharaja-karuna-sagara",
+        "filepath": "songs/jaya-guru-maharaja-karuna-sagara.md",
+        "title": "Шри Шри Нитаи-Чаитанйа-Арати"
+      },
+      {
+        "id": "kali-kukkura-kadana-jadi-chao-he",
+        "filepath": "songs/kali-kukkura-kadana-jadi-chao-he.md",
+        "title": "Прабхати Гити"
+      },
+      {
+        "id": "jashomati-nandana-vraja-vara-nagara",
+        "filepath": "songs/jashomati-nandana-vraja-vara-nagara.md",
+        "title": "Шри Нама-Киртан"
+      },
+      {
+        "id": "jaya-shiachinandana-sura-muni-vandana",
+        "filepath": "songs/jaya-shiachinandana-sura-muni-vandana.md",
+        "title": "Шри Шачинандана-вандана"
+      },
+      {
+        "id": "jaya-sa-parikara",
+        "filepath": "songs/jaya-sa-parikara.md",
+        "title": "Джайа Дхвани"
+      },
+      {
+        "id": "vrindayai-tulasi-devyai",
+        "filepath": "songs/vrindayai-tulasi-devyai.md",
+        "title": "Туласи пранам мантра"
+      },
+      {
+        "id": "gurudeva-kripa-bindu-diya-kara-ei-dase",
+        "filepath": "songs/gurudeva-kripa-bindu-diya-kara-ei-dase.md",
+        "title": "Гурудев"
+      },
+      {
+        "id": "udilo-aruna-puraba-bhage",
+        "filepath": "songs/udilo-aruna-puraba-bhage.md",
+        "title": "Арунодойа-киртан (часть 1)"
+      },
+      {
+        "id": "jiv-jago-jiv-jago-gaurachanda-bole",
+        "filepath": "songs/jiv-jago-jiv-jago-gaurachanda-bole.md",
+        "title": "Арунодойа-киртан (часть 2)"
+      }
+    ]
+  },
+  {
+    "name": "Вандана",
+    "items": [
+      {
+        "id": "vande-ham-shri-guroh-shri-yuta-pada-kamalam",
+        "filepath": "songs/vande-ham-shri-guroh-shri-yuta-pada-kamalam.md",
+        "title": "Вандана"
+      },
+      {
+        "id": "gurvabhishta-supurakam-guru-ganair",
+        "filepath": "songs/gurvabhishta-supurakam-guru-ganair.md",
+        "title": "Шрила Бхакти Сундар Говинда Дев-Госвами Махарадж"
+      },
+      {
+        "id": "devam-divya-tanum-suchanda-vadanam-balarka-chelanchitam",
+        "filepath": "songs/devam-divya-tanum-suchanda-vadanam-balarka-chelanchitam.md",
+        "title": "Шрила Бхакти Ракшак Шридхар Дев-Госвами Махрадж"
+      },
+      {
+        "id": "shri-siddhanta-sarasvatiti-vidito",
+        "filepath": "songs/shri-siddhanta-sarasvatiti-vidito.md",
+        "title": "Бхагаван Шрила Бхактисиддханта Сарасвати"
+      },
+      {
+        "id": "namo-gaurakishoraya-bhaktavadhuta-murtaye",
+        "filepath": "songs/namo-gaurakishoraya-bhaktavadhuta-murtaye.md",
+        "title": "Шрила Гауракишор Дас Бабаджи Махарадж"
+      },
+      {
+        "id": "vande-bhaktivinodam-shri-gaura-shiakti-svarupakam",
+        "filepath": "songs/vande-bhaktivinodam-shri-gaura-shiakti-svarupakam.md",
+        "title": "Шрила Бхактивинод Тхакур"
+      },
+      {
+        "id": "gaura-vrajashritashieshair-vaishnavair-vandya-vigraham",
+        "filepath": "songs/gaura-vrajashritashieshair-vaishnavair-vandya-vigraham.md",
+        "title": "Шрила Джаганнатх Дас Бабаджи Махарадж"
+      },
+      {
+        "id": "vancha-kalpatarubhyas-cha",
+        "filepath": "songs/vancha-kalpatarubhyas-cha.md",
+        "title": "Молитвы, обращенные к вайшнавам"
+      },
+      {
+        "id": "shri-krishna-chaitanya-prabhu-nityananda",
+        "filepath": "songs/shri-krishna-chaitanya-prabhu-nityananda.md",
+        "title": "Панча-таттва мантра"
+      },
+      {
+        "id": "hare-krishna-hare-krishna-krishna-krishna-hare-hare",
+        "filepath": "songs/hare-krishna-hare-krishna-krishna-krishna-hare-hare.md",
+        "title": "Харе Кршна маха-мантра"
+      }
+    ]
+  },
+  {
+    "name": "⸻",
+    "items": [
+      {
+        "id": "cheto-darpana-marjanam",
+        "filepath": "songs/cheto-darpana-marjanam.md",
+        "title": "Шри Шикшаштакам"
+      },
+      {
+        "id": "hari-haraye-namah-krishna-yadavaya-namah",
+        "filepath": "songs/hari-haraye-namah-krishna-yadavaya-namah.md",
+        "title": "Нама-санкиртан"
+      },
+      {
+        "id": "jaya-sa-parikara",
+        "filepath": "songs/jaya-sa-parikara.md",
+        "title": "Джайа Дхвани"
+      }
+    ]
+  }
+]
