@@ -5,7 +5,7 @@
 - [Слава Шри Чайтанья Сарасват Матха](songs/shrimach-chaitanya-sarasvata-mathavara-udgita-kirtir.md)
 - [Лого Шри Чайтанья Сарасват Матха](songs/gayatri-muralishta-kirtana-dhanam.md)
 - [Вандана](songs/vande-ham-shri-guroh-shri-yuta-pada-kamalam.md)
-- [Шрила Бхакти Ранджан Мадхусудан Махарадж](songs/acharya-varyyam-gaura-dhama-nishtham.md)
+- [Шрила Бхакти Ранджан Мадхусуданa Махарадж](songs/acharya-varyam-gaura-dhama-nishtham.md)
 - [Шрила Бхакти Бимал Авадхут Махарадж](songs/vande-vaikuntha-vritti-stham.md)
 - [Шрила Бхакти Судхир Госвами Махарадж](songs/goswaminam-sudhirakhyam.md)
 - [Шрила Бхакти Нирмал Ачарья Махарадж](songs/pujya-sri-guru-varga-vandita.md)
@@ -66,7 +66,16 @@
 - [Саварана-Шри-Гаура-пада-падме Прартхана](songs/shri-krishna-chaitanya-prabhu-daya-kara-more.md)
 - [Шри Ваишнава-махима-гити](songs/vaishnava-thakura-dayara-sagara.md)
 - [Шри Шри Прабхупада-падма Ставаках](songs/sujanarvuda-radhita-pada-yugam.md)
-- [Шри Шри Према-дхама-дева-стотрам](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
+
+### Шри Шри Према-дхама-дева-стотрам
+
+- [1-10. Суббота](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
+- [11-20. Воскресенье](songs/sutra-vritti-tippanishta-sukshma-vachanadbhutam.md)
+- [21-30. Понедельник](songs/dhvasta-sarvvabhauma-vada-navya-tarka-shiankaram.md)
+- [31-40. Вторник](songs/prema-mugdha-rudra-raja-shiaurya-virya-vikramam.md)
+- [41-50. Среда](songs/prema-mugdha-nritya-kirtanakularitantikam.md)
+- [51-60. Четверг](songs/shri-sanatananu-rupa-jiva-sampradayakam.md)
+- [61-72. Пятница](songs/yamunambu-krishna-radhikali-keli-mandalam.md)
 
 ### Песни, посвященные Нитьянанде Прабху
 
@@ -188,6 +197,7 @@
 - [После парикрамы](songs/nagara-bhramiya-amara-gaura-elo-ghore.md)
 - [Шри Нагара-киртана (песнь 4)](songs/radha-krishna-bol-bol-bolo-re-sobai.md)
 - [Шри Нагара-киртана (песнь 8)](songs/hari-bole-modera-gaura-elo.md)
+- [Шри Годрума-Чандра-Бхаджана-Упадеша](songs/yadi-te-hari-pada-saroja-sudha.md)
 
 ### Произведения Шрилы Шридхара Махараджа
 
@@ -197,8 +207,6 @@
 - [Шримад Рупа-пада-раджах Прартхана Дашакам](songs/shrimach-chaitanyapadau-chara.md)
 - [Шриман Нитйананда Двадашакам](songs/yo-nanto-nanta-vaktrair-niravadhi.md)
 - [Саннйаса Шри Нимайа](songs/mishra-suta-vishvambhara-navadvipa-vasa.md)
-
-
 
 ### Произведения Шрилы Говинды Махараджа
 

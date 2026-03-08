@@ -1,3 +1,9 @@
+---
+page: 64
+verse parentheses: non bold
+first_line: (киба) джайа джайа гаура̄ча̄̐дер а̄ротико ш́обха̄
+---
+
 # Шри Гаура-арати
 
 ### Ш́рӣла Бхактивинод Т̣ха̄кур
@@ -85,11 +91,5 @@
 
 [Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-kiba-jaya-jaya)
 
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gaura-arati-i)
-
 [Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-sri-gaura)
 
-
-> page = 64
-
-> verse parentheses = non bold
