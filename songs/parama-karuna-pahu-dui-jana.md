@@ -43,10 +43,5 @@ first_line: парама корун̣а, паху̐ дӯи джана
 
 Я погружен в круговорот рождений и смертей и выброшен на обочину без надежды обрести Их общество. Таким образом я просто вынужден страдать от последствий своих поступков, наказываемый Ямараджем, богом смерти. Так поет Лочан Дас.
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-parama-koruna)
-
-[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-paramakaruna)
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-parama-koruna)
+    (дайа̄л нита̄и дайа̄л гоур)
 

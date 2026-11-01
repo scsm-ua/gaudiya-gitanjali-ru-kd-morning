@@ -13,7 +13,7 @@ first_line: (прабху хе!) эмона дурмати, сам̇са̄ра �
     эмона дурмати,    сам̇са̄ра бхиторе,
         под̣ийа̄ а̄чхину а̄ми
     тава ниджа-джана,    коно маха̄джане
-        па̄т̣хāийа̄ диле туми
+        па̄т̣ха̄ийа̄ диле туми
 
 Порочный ум бросил меня в этот мир, о Господь, но один из Твоих чистых возвышенных преданных пришел, чтобы освободить меня!
 
@@ -61,23 +61,4 @@ first_line: (прабху хе!) эмона дурмати, сам̇са̄ра �
         а̄пана-ка̄хинӣ боле
 
 О Господь, услышав эти слова, Бхактивинод зарыдал, моля о живительной сени Твоих лотосоподобных стоп и рассказывая историю своей жизни.
-
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-emona-durmati)
-
-[Шрила Шридхар Махарадж](https://soundcloud.com/bharatimaharaj/sridhar-maharaj-and-govinda-7)
-
-[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-emona-durmati)
-
-[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-emona-durmati)
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-emona-durmati)
-
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-emona-durmati)
-
-[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-dainyatmika)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-emona)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-emona-1)
 

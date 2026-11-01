@@ -36,16 +36,6 @@ first_line: га̄й гора̄ мадхур сваре
 
 Несомненно, жизнь скоротечна, а ты не поклоняешься Хришикеше, Повелителю чувств. Бхактивинод умоляет тебя: хотя бы раз вкуси *нама-расу*, нектар Святого Имени!
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-gay-gora)
-
-[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-gay-gora-1)
-
-[Шрила Госвами Махарадж](https://soundcloud.com/bharatimaharaj/goswami-maharaj-gay-gora)
-
-[Каракас Дхам](https://soundcloud.com/bharatimaharaj/shchsm-karakas-gai-gora-madxur)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-gaj-goura-1)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-gaj-goura)
+    (джайа гаурахари)
+    (нита̄и гаура харибол)
 

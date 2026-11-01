@@ -42,8 +42,5 @@ first_line: нита̄и гун̣аман̣и а̄ма̄ра нита̄и гун
 
 Лочан Дас говорит: «Всякий, кто не поклоняется Господу Нитаю и не принимает дара, который Тот принес, осознанно совершает самоубийство».
 
-
-[Навадвип Дхам](https://soundcloud.com/bharatimaharaj/navadwip-scsm-nitai-guna-mani)
-
-[Сударшан Прабху](https://soundcloud.com/bharatimaharaj/sudarshan-prabhu-nitai)
+    (дайа̄л нита̄и)
 

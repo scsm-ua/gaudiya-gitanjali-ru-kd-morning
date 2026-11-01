@@ -43,10 +43,5 @@ first_line: нита̄и-пада-камала, кот̣ӣ-чандра-суш́
 
 Лотосоподобные стопы Нитьянанды — истина, а слуги Его вечны. Всегда стремись обрести прибежище у Его стоп! Нароттам очень несчастен. О Нитай, сделай меня счастливым! Молю, позволь мне всегда быть у Твоих прекрасных лотосоподобных стоп!
 
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-nitai-pada-1)
-
-[Шрила Говинда Махарадж](https://soundcloud.com/bharatimaharaj/govinda-maharaj-nitai-pada)
-
-[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-nitay-pada)
+    (дайа̄л нита̄и)
 

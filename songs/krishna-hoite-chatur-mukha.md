@@ -121,8 +121,5 @@ first_line: кр̣ш̣н̣а хоите чатур-мукха, хон кр̣ш̣
 
 Такова наша величественная линия духовных наставников, которые очень дороги Шри Чайтанье Махапрабху. Мой хлеб насущный — то, что они завещали.
 
-
-[Шрила Ачарья Махарадж](https://soundcloud.com/bharatimaharaj/acharya-maharaj-guru-parampara)
-
-[Шрила Авадхут Махарадж](https://soundcloud.com/bharatimaharaj/avadxut-maxaradzh-shri-guru)
+    (джайа гуру парампара̄)
 
